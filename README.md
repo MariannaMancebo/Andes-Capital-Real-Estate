@@ -4,6 +4,14 @@ Este dashboard reúne las ventas inmobiliarias de 2023 y 2024 para entender cóm
 
 Lo desarrollé en **Power BI**, con un modelo de datos en estrella, medidas DAX y tres páginas de análisis.
 
+## Qué quería entender
+
+La pregunta era cómo había cambiado el desempeño comercial y dónde valía la pena profundizar: ¿en el número de operaciones, en el valor de cada venta o en los canales que las generaban? Para responderla comparé ingresos, cantidad de ventas, ticket promedio y crecimiento anual, y exploré las compras recurrentes.
+
+En las 8,500 ventas del ejercicio, los ingresos crecieron 11.14 % en 2024. Sin embargo, cada indicador contaba una parte distinta de la historia: los departamentos reunían más operaciones, las casas generaban más ingresos y los inmuebles comerciales tenían el ticket más alto. Los corredores también aportaban más ingresos que la venta directa.
+
+A partir de esos hallazgos, revisaría el volumen y el valor por operación antes de priorizar un tipo de propiedad. Para decidir cuánto invertir en cada canal necesitaría conocer también sus costos, comisiones y conversión. El dashboard ayuda a localizar estas diferencias; por sí solo no demuestra qué acción comercial las causó.
+
 ## Vista general
 
 ![Resumen ejecutivo del dashboard](imagenes/01_overview.png)
